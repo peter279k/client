@@ -31,7 +31,6 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "ext-bcmath": "*",
         "ext-gmp": "*",
         "psr/container": "^1.0",
         "kornrunner/keccak": "^1.0",

@@ -20,6 +20,8 @@ install:
 
 script:
   - make dev-check
+  - make dev-init
+  - make phpunit
 
 branches:
   only:
